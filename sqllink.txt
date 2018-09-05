@@ -1,7 +1,0 @@
-certo a tabela referente a baixa de título seria a areceberitembaixa
-
-AReceberItemBaixaEvento,  vlbaixaitem, vljurositem
-
-areceberitem  vllpis, vlcofins
-areceberitembaixa vlbaixaitem, vljurositem, AReceberItemBaixaEvento
-teste

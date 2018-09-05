@@ -1,1 +1,0 @@
-dicas para consulta correta no SQL.
