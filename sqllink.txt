@@ -4,3 +4,4 @@ AReceberItemBaixaEvento,  vlbaixaitem, vljurositem
 
 areceberitem  vllpis, vlcofins
 areceberitembaixa vlbaixaitem, vljurositem, AReceberItemBaixaEvento
+teste
