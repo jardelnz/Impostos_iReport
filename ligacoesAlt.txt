@@ -1,0 +1,7 @@
+Tabelas por ordem de ligação: serão ligadas pelo seu ID que iniciara na IDARECEBER
+e na IDARECEBERITEM
+
+ARECEBER -- IDARECEBER
+ARECEBERITEM - IDARECEBERITEM
+AReceberItemBaixa -- IDAReceberItemBaixa 
+AReceberItemBaixaEvento -- AReceberItemBaixa
