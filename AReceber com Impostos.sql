@@ -7,7 +7,7 @@ Select
 	AR.VlBaixado as 'Valor Baixado',
 	ARI.VlISS as 'Valor de ISS',
 	ARI.VlIRRF as 'Valor de IR',
-	ARI.VlPIS as 'Valor de PIIS',
+	ARI.VlPIS as 'Valor de PIS',
 	ARI.VLCOFINS AS 'Valor de COFINS',
 	ARI.VlINSS AS 'Valor de INSS',
 	ARI.VlISS as 'Valor de ISS',
