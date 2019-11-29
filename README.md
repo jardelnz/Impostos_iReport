@@ -1,0 +1,1 @@
+Informações para integração
